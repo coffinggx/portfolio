@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div className="h-screen w-full">
       <Navbar />
-      <div className="flex flex-col-reverse md:flex-row justify-around  items-center">
+      <div className="flex flex-col-reverse md:flex-col-reverse lg:flex-row justify-around  items-center">
         <div className="text-white">
           <h1 className="md:text-5xl text-3xl">Coffinggx</h1>
           <h2 className="md:text-3xl md:ml-8 ml-3 mt-1 md:mt-3 text-2xl">
