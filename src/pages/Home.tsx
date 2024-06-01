@@ -14,7 +14,7 @@ const Home = () => {
             Hire me
           </button>
         </div>
-        <div className="md:h-2/5 md:w-2/5  wi-[190px] ">
+        <div className="md:h-2/4 md:w-2/4  wi-[190px] ">
           <img src="luffy-gear-5-colored.png" />
         </div>
       </div>
