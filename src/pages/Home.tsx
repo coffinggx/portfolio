@@ -15,7 +15,7 @@ const Home = () => {
           </button>
         </div>
         <div className="md:h-2/5 md:w-2/5  wi-[190px] ">
-          <img src="../../public/luffy-gear-5-colored.png" />
+          <img src="luffy-gear-5-colored.png" />
         </div>
       </div>
     </div>
