@@ -8,6 +8,8 @@
   font-style: normal;
   padding: 0px;
   margin: 0px;
+  height: screen;
+  width: 100%;
 }
 
 .title {
